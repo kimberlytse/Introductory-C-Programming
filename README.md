@@ -1,2 +1,2 @@
-# IntroductaryC-Programming
+# Introductary-C-Programming
 Assignments for understanding the C language
