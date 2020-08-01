@@ -1,0 +1,6 @@
+Name: Kimberly Tse
+ Date: 12/1/2018 
+ Sequence: 1,2,3,4,5,6
+
+ Course Number: EG1302
+ Classroom Number: 101
